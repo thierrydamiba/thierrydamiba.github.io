@@ -19,8 +19,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m Thierry. I’m a data scientist who is learning in public about LLMs using LLMs on low compute hardware. I graduated from the University of Maryland with a degree in sociology and was a student at Y Combinator backed Sharpest Minds and the Bloomtech Institute(formerly Lambda School). In the past I worked for SAIC on a project with the Department of Homeland Security to deploy and improve ELIS. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interest in learning about LLMs is to evaluate their impact on developing countries. I was born in Burkina Faso, a small landlocked country in West Africa that ranks 184th out of 191 countries in GDP. Burkina Faso's GDP is approximately 0.0814% of the United States' GDP. To put this in a compelling size analogy, imagine a large football stadium filled to capacity, representing the United States' economy. In this scenario, Burkina Faso's economy would be equivalent to a single seat in that stadium.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m extremely motivated to learn how LLMs can be leveraged to improve the GDP of developing countries, and more importantly, how the growth of these countries might be stifled as LLMs become more advanced and ubiquitous. I am also interested in the sociology of LLMs, and how they impact they positively or negatively impact the human experience.
+
+The learn in public model emphasizes sharing one's learning journey openly, fostering a culture of collaborative learning, transparency, and community engagement. By documenting and sharing progress, challenges, and insights, individuals contribute to a collective knowledge base and benefit from feedback and support from a wider audience(you!)
+
+There is a small twist however. All of my learning, building and sharing will be done on a $200 Acer machine that boasts an 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz   3.00 GHz, 8.00 GB (7.78 GB usable) of RAM, and no GPU. As I previously mentioned, my interest in LLMs stems from evaluating their impact on developing countries, where computing power is a luxury. By taking on this process with a less powerful machine, I hope to find insight into the unique problems and solutions that will arise when using LLMs in developing countries. I will caveat this twist with the fact that I will use Google Colab Pro when my machine is not enough, but I will attempt to use it as sparingly as possible.
+
+Follow me on my journey to learn about LLMs using LLMs
+
