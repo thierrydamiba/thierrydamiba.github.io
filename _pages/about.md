@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'></a>. Learning in Public about LLMs
 
 profile:
   align: left
-  image: iphone_avatar.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
+  image: #iphone_avatar.jpg
+  image_circular: True # crops the image to make it circular
+  more_info: #>
+    <p>Los Angeles, California</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
