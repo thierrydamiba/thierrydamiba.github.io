@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: amoeba data
+description: A Pro Bono Data Science consulting firm for companies that make the world a better place
+img: assets/img/amoebadata_logo.png
 importance: 2
 category: work
 giscus_comments: true
