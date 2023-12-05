@@ -3,7 +3,7 @@ layout: page
 title: AI in emerging markets
 description: A Pro Bono Data Science consulting firm for companies that make the world a better place
 img: assets/img/investigating_ai_in_emerging_markets.png
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
 ---
