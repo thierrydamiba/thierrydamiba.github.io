@@ -5,6 +5,6 @@ description: A Pro Bono Data Science consulting firm for companies that make the
 img: assets/img/amoebadata_logo.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 TODO
