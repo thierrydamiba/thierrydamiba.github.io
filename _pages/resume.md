@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: resume
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 6
 
 profiles:
