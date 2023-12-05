@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: 
 first_name: Thierry
 middle_name: P.
 last_name: Damiba
@@ -151,7 +151,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/@thierry.damiba/feed
 
 # -----------------------------------------------------------------------------
 # Collections
