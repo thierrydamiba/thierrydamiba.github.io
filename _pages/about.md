@@ -6,7 +6,7 @@ subtitle: #<a href='#'></a>. Learning in Public about LLMs
 
 profile:
   align: right
-  image: profile_picture.jpg
+  image: profile_picture_circle.jpg
   image_circular: True # crops the image to make it circular
   more_info: 
 
