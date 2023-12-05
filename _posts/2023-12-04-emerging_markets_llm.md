@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LLMs and Emerging Markets
-date: 2023-12-04 22:09:00
+date: 2023-12-03 22:09:00
 description: Investigating how LLMs help and hurt emerging markets
 tags: 
 categories:
