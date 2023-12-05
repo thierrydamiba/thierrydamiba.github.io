@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amoeba Data
-date: 2023-12-05 22:09:00
+date: 2023-12-04 22:09:00
 description: A Pro Bono data science consultancy
 tags: 
 categories: 
