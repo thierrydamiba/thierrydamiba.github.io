@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Learning in Public about LLMs #<a href='#'></a>. 
+subtitle: #Learning in Public about LLMs <a href='#'></a>. 
 
 profile:
   align: right
