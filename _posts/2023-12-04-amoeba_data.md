@@ -3,8 +3,8 @@ layout: post
 title: Amoeba Data
 date: 2023-12-04 22:09:00
 description: A Pro Bono data science consultancy
-tags: 
-categories:
+tags: test
+categories: test
 related_posts: false
 featured: true
 ---
