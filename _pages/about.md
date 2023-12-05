@@ -5,8 +5,8 @@ permalink: /
 subtitle: #<a href='#'></a>. Learning in Public about LLMs
 
 profile:
-  align: left
-  image: #iphone_avatar.jpg
+  align: right
+  image: profile_picture.jpg
   image_circular: True # crops the image to make it circular
   more_info: 
 
@@ -16,15 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Thierry. I’m a data scientist who is learning in public about LLMs using LLMs on low compute hardware. I graduated from the University of Maryland with a degree in sociology and was a student at Y Combinator backed Sharpest Minds and the Bloomtech Institute(formerly Lambda School). In the past I worked for SAIC on a project with the Department of Homeland Security to deploy and improve ELIS. 
+Hello, I'm Thierry, a data scientist exploring Large Language Models (LLMs) on modest hardware. My academic background includes a sociology degree from the University of Maryland and data science training from Y Combinator's Sharpest Minds and Bloomtech Institute. Previously, I worked with SAIC on a Department of Homeland Security project, enhancing ELIS.
 
-My interest in learning about LLMs is to evaluate their impact on developing countries. I was born in Burkina Faso, a small landlocked country in West Africa that ranks 184th out of 191 countries in GDP. Burkina Faso's GDP is approximately 0.0814% of the United States' GDP. To put this in a compelling size analogy, imagine a large football stadium filled to capacity, representing the United States' economy. In this scenario, Burkina Faso's economy would be equivalent to a single seat in that stadium.
+My focus is on understanding LLMs' influence in developing countries, inspired by my birthplace, Burkina Faso, a low GDP country in West Africa. I'm interested in how LLMs might affect these countries' economic growth and social dynamics.
 
-I’m extremely motivated to learn how LLMs can be leveraged to improve the GDP of developing countries, and more importantly, how the growth of these countries might be stifled as LLMs become more advanced and ubiquitous. I am also interested in the sociology of LLMs, and how they impact they positively or negatively impact the human experience.
+I adopt a "learn in public" approach, sharing my journey and findings on a budget-friendly Acer machine, equipped with an Intel Core i3 processor and 8 GB of RAM. This choice reflects the limited computing resources in developing regions. While I sometimes use Google Colab Pro, my primary tool is this basic setup.
 
-The learn in public model emphasizes sharing one's learning journey openly, fostering a culture of collaborative learning, transparency, and community engagement. By documenting and sharing progress, challenges, and insights, individuals contribute to a collective knowledge base and benefit from feedback and support from a wider audience(you!)
-
-There is a small twist however. All of my learning, building and sharing will be done on a $200 Acer machine that boasts an 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz   3.00 GHz, 8.00 GB (7.78 GB usable) of RAM, and no GPU. As I previously mentioned, my interest in LLMs stems from evaluating their impact on developing countries, where computing power is a luxury. By taking on this process with a less powerful machine, I hope to find insight into the unique problems and solutions that will arise when using LLMs in developing countries. I will caveat this twist with the fact that I will use Google Colab Pro when my machine is not enough, but I will attempt to use it as sparingly as possible.
-
-Follow me on my journey to learn about LLMs using LLMs
+Additionally, I manage a Pro Bono data science consultancy, aiding organizations that positively impact the world. My mission is to uncover how LLMs can be harnessed for the betterment of emerging economies and societal advancement.
 
