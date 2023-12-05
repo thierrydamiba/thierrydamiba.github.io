@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn in Public
-date: 2023-12-04 22:19:00
+date: 2023-12-02 22:19:00
 description: Learning about LLMs in Public
 tags: 
 categories: 
