@@ -9,19 +9,6 @@ related_publications:
 giscus_comments: false
 ---
 
----
-layout: page
-title: Learning LLMs in Public
-description: Learning about Large Language Models in Public
-img: assets/img/llm_in_public.png
-importance: 1
-category: fun
-related_publications: 
-giscus_comments: false
----
-
-Incorporating the latest GDP data for Burkina Faso into your markdown text:
-
 # Learning about Large Language Models on Low-Resource Hardware to Deliver Value to Emerging Markets
 
 ## Introduction
